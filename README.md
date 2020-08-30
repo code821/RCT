@@ -1,2 +1,0 @@
-# RCT
-Remote control trojan
